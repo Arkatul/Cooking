@@ -4,4 +4,4 @@
 ## Salades
 [Salade de mâche, betterave et noix](https://github.com/Arkatul/Cooking/blob/main/Salades/Betterave%20et%20Mache.md)
 ## Sauces
-[Cocktail](https://github.com/Arkatul/Cooking/blob/main/Sauces/Cocktail.md)
+[Cocktail](./Sauces/Cocktail.md)
