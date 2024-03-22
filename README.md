@@ -1,4 +1,6 @@
 # Recettes
+## Plats Principaux
+[Chili con Carne](./Plats%20Principaux/chili.md)
 ## Accompagnements
 [Gratin Dauphinois](./Accompagnements/Gratin%20Dauphinois.md)
 ## Salades
