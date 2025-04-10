@@ -1,10 +1,10 @@
 
 # Pâtes au Jambon Cru Italien, Petits pois et Gorgonzola
-
+![Pâtes au Jambon Cru Italien, Petits pois et Gorgonzola](https://upload.wikimedia.org/wikipedia/commons/3/3f/Pasta_with_prosciutto_and_peas.jpg)
 | Ingrédients                            | Quantité |
 |----------------------------------------|----------|
 | Pâtes                                  | 250 g    |
-| Jambon cru italien, coupé en dés       | 100 g    |
+| Jambon cru italien, coupé en lamelles       | 100 g    |
 | Petits pois                            | 100 g    |
 | Gorgonzola, coupé en morceaux          | 100 g    |
 | Crème légère                           | 100 ml   |
