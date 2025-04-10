@@ -12,3 +12,5 @@
 [Salade de mâche, betterave et noix](./Salades/Betterave%20et%20Mache.md)  
 ## Sauces
 [Cocktail](./Sauces/Cocktail.md)
+## Petit Déjeuner
+[Granola Maison à l'Air Fryer](./Petit%20D%C3%A9jeuner/granola.md)
